@@ -1,6 +1,6 @@
 ﻿
 
-/packages
+packages
 .vs
-/bin
-/obj
+bin
+obj
